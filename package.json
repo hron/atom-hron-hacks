@@ -1,0 +1,18 @@
+{
+  "name": "atom-hron-hacks",
+  "main": "./lib/atom-hron-hacks",
+  "version": "0.0.0",
+  "description": "My personal hacks for atom editor",
+  "keywords": [
+  ],
+  "activationCommands": {
+  },
+  "repository": "https://github.com/hron/atom-hron-hacks",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "fs-plus": ">=2.9.3"
+  }
+}
